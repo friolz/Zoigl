@@ -1,0 +1,48 @@
+Schwoazhansl-Zoigl			Falkenberg				49.85879		12.22621
+Schoilmichl					Neuhaus					49.80087		12.16662	
+Beim Roidl					Neualbenreuth			49.97951		12.44224
+Lugert						Mitterteich				49.95040		12.24488
+Beim Gloser					Windischeschenbach		49.80245		12.15582
+Zoiglstub'n zur Post		Bärnau					49.81152		12.43079
+Beim Strehern				Eslarn					49.58043		12.52326
+Stefflwirt					Wiesau					49.91035		12.17814
+Wolframstub'n				Windischeschenbach		49.80212		12.15544
+Kramer-Wolf					Falkenberg				49.85858		12.22573
+Teicher						Neuhaus					49.80031		12.16555
+Postgassl					Tirschenreuth			49.87851		12.33144
+Alter Pfarrhof				Altenstadt				49.72140		12.16064
+Stromhias					Flossenbürg				49.73148		12.34306
+Oppl						Mitterteich				49.95273		12.24481
+Zum Binnerlindl				Kohlberg				49.59141		12.01979
+Beim Meislbeck				Erbendorf				49.83784		12.04654
+Wolfadl						Falkenberg				49.85962		12.22848
+Zum Rechersimer				Reuth					49.85320		12.12626
+Zum Mundl					Störnstein				49.73398		12.20668
+Zum Sprea'n					Waldsassen				50.00299		12.30696
+Fiedlschneider				Windischeschenbach		49.80324		12.15546
+Käck'n						Neuhaus					49.80077		12.16629
+Schloßhof Zoigl				Windischeschenbach		49.80130		12.15349
+Zoiglbauer					Mitterteich				49.95084		12.24258
+Stefflwirt					Wiesau					49.91035		12.17814
+Lingl-Zoigl					Neuhaus					49.80010		12.16532
+Beim Brucksaler				Neustadt				49.72767		12.16535
+Wagerer-Zoigl				Parkstein				49.73109		12.06784
+Zum Boderfuchs				Tirschenreuth			49.87979		12.33668
+D'Eisenbahn					Vohenstrauß				49.62631		12.33986
+Zum Posterer				Windischeschenbach		49.80288		12.15657
+Zum Roud'n					Windischeschenbach		49.80318		12.15444
+Haner						Botzersreuth			49.76424		12.21293
+Hartwich-Zoigl				Mitterteich				49.95071		12.24653
+Schafferhof					Neuhaus					49.79976		12.16390
+Binner						Windischeschenbach		49.80361		12.15613
+Zum Waldhauser				Neustadt				49.72946		12.16722
+Bahler						Neuhaus					49.80058		12.16592
+Vinzenz						Hammerles				49.73198		12.04359
+Dameradl					Waldershof				49.97813		12.06539
+Beim Heigl					Schirmitz				49.65350		12.16953
+Zum Glöckerlbauer			Weiden					49.69407		12.12838
+Zoiglwirtschaft-Brauhaus	Waldershof				49.97714		12.06310
+Am Moierhof					Kirchendemenreuth		49.77188		12.07525
+Zum Stich'n					Weiden					49.67586		12.16533
+Kommunbrauertag				Mitterteich				49.94949		12.24136
+Kommunbrauertag				Neuhaus					49.80052		12.16546

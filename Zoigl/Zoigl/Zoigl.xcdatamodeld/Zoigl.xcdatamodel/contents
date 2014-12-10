@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model name="" userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="872" systemVersion="11C74" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Zoigl" representedClassName="Zoigl" syncable="YES">
+        <attribute name="beginn" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="ende" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="ort" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="zoiglstubn" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Zoigl" positionX="160" positionY="192" width="128" height="135"/>
+    </elements>
+</model>
